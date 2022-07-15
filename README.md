@@ -1,6 +1,5 @@
 # WeatherApp
-
-  Weather application using tkinter
+  A simple weather GUI app with Tkinter that fetches weather data from openweathermap API.
 
 # Final Result
 
