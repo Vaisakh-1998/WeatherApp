@@ -8,8 +8,12 @@
   
   tkinter
   PIL
+  requests
+  json
+  pytz
   geopy
   matplotlib
   datetime
+  
   
 
