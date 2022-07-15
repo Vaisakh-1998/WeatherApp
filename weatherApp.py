@@ -4,7 +4,7 @@ from embedGraph import EmbedGraph
 from PIL import ImageTk
 
 WHITE = "#FFFFFF"
-BLACK = "#25265E"
+BLACK = "#000000"
 SEARCH_FONT = ("Arial", 12)
 DL_FONT = ("Arial", 6)
 SMALL_FONT_STYLE = ("Arial Baltic", 10)
