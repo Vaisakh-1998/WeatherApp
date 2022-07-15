@@ -6,8 +6,8 @@
 
 # Libraries and Modules Used
   
- _tkinter
- _PIL
+ - tkinter
+ - PIL
   requests
   json
   pytz
