@@ -6,7 +6,7 @@
 
 # Libraries and Modules Used
   
- - '''tkinter'''
+ - '''tkinter'''.
  - PIL
  - requests
  - json
