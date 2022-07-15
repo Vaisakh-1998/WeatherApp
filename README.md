@@ -8,12 +8,12 @@
   
  - tkinter
  - PIL
-  requests
-  json
-  pytz
-  geopy
-  matplotlib
-  datetime
+ - requests
+ - json
+ - pytz
+ - geopy
+ - matplotlib
+ - datetime
   
   
 
