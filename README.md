@@ -7,13 +7,13 @@
 # Libraries and Modules Used
   
  - ```tkinter```
- - PIL
- - requests
- - json
- - pytz
- - geopy
- - datetime
- - matplotlib
+ - ```PIL```
+ - ```requests```
+ - ```json```
+ - ```pytz```
+ - ```geopy```
+ - ```datetime```
+ - ```matplotlib```
   
   
 
