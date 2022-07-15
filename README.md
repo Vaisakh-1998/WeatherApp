@@ -12,8 +12,8 @@
  - json
  - pytz
  - geopy
- - matplotlib
  - datetime
+ - matplotlib
   
   
 
