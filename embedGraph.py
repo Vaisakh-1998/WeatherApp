@@ -47,6 +47,7 @@ class EmbedGraph:
 		self.plot.set_yticks(self.yticks)
 		self.plot.set_ylim(0, max(y2)+5)
 		self.add_values(x, y, y1, y2)
+                self.fig.canvas.draw()
 		
 	def embed(self):
 		canvas = FigureCanvasTkAgg(figure=self.fig, master=self.tk_widget)
